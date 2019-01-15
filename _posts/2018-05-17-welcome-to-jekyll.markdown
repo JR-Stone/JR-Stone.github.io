@@ -4,8 +4,8 @@ title:  "百度云无需会员极速下载!"
 date:   2019-01-16 14:05:21 +0800
 tags: 终身使用 无需更新 极速下载
 color: rgb(255,90,90)
-cover: '../assets/test.png'
-subtitle: '欢迎小伙伴多多推广!'
+cover: '../assets/baiduyun.jpg'
+subtitle: '回手掏，鬼刀一开看不见，走位走位，手里干!'
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
