@@ -142,9 +142,9 @@ cover: ''
 ```yaml
 # 博主
 author: true
-name: 'your awesome name'
+name: 'JR'
 NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
+webtitle: '一颗坚硬的石头'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
